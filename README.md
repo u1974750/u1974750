@@ -1,19 +1,17 @@
 <h1 align="center">✨ Hi! I'm Sira Gordillo ✨</h1>
 <h3 align="center">A passionate game developer from Spain</h3>
 
-- 🔭 I’m currently working on **a web Pokedex**
+- 🔭 I’m currently working on **WearOs app for gym routine help**
 
 - 🌱 I’m currently learning **WearOS app development**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 My personal portfolio is available at [this selfmade website]([link](https://sira-gordillo.netlify.app/))
 
 - 📫 How to reach me **siragopa@gmail.com**
 
-- 📄 Know about my experiences [link](link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sira gordillo palahí" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sira gordillo palahí" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sira-gordillo-palahí-b48245182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sira gordillo palahí" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
