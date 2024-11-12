@@ -1,4 +1,4 @@
-<h1 align="center">Hi ✨, I'm Sira Gordillo</h1>
+<h1 align="center">✨ Hi! I'm Sira Gordillo ✨</h1>
 <h3 align="center">A passionate game developer from Spain</h3>
 
 - 🔭 I’m currently working on **a WearOs app for gym routine help**
