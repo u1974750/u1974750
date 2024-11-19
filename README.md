@@ -1,9 +1,7 @@
 <h1 align="center">✨ Hi! I'm Sira Gordillo ✨</h1>
 <h3 align="center">A passionate game developer from Spain</h3>
 
-- 🔭 I’m currently working on **a WearOs app for gym routine help**
-
-- 🌱 I’m currently learning **WearOS app development**
+I'm a passionate video game developer specializing in creating tools for task automation. With a strong command of both programming and artistic disciplines, I seamlessly blend technical proficiency and creativity to deliver innovative and efficient solutions. My multidisciplinary skill set allows me to craft projects that are both functional and visually compelling, pushing the boundaries of game development.
 
 - 👨‍💻 All of my projects are available at [https://sira-gordillo.netlify.app/](https://sira-gordillo.netlify.app/)
 
